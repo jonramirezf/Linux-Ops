@@ -1,28 +1,43 @@
 # Linux Ops
 
-Repositorio de prácticas de administración Linux realizadas en laboratorio.
+Repositorio de prácticas de administración y operación Linux.
 
-Aquí documento ejercicios, comandos y configuraciones relacionadas con Linux, administración de sistemas y automatización.
+Aquí documento comandos, configuraciones, problemas y soluciones relacionados con sistemas Linux, con foco en tareas que aparecen en entornos de soporte, servidores, Cloud y DevOps.
 
 ## Objetivo
 
-Fortalecer mis conocimientos de Linux aplicados a entornos reales de administración y DevOps.
+Desarrollar una base sólida de Linux aplicada a administración de sistemas, automatización, troubleshooting y operación de infraestructura.
 
 ## Áreas de práctica
 
-- Administración del sistema
-- Almacenamiento y sistemas de archivos
-- Usuarios, permisos y seguridad
-- Procesos, servicios y logs
+- Sistema de archivos y almacenamiento
+- Usuarios, grupos y permisos
+- Procesos y servicios
+- systemd
+- Logs y diagnóstico
 - Redes
-- Automatización con Bash
-- Troubleshooting y operación Linux
+- Gestión de paquetes
+- Seguridad básica
+- Bash scripting
+- Automatización
+- Monitoreo de recursos
+- Troubleshooting
 
-## Certificaciones
+## Forma de trabajo
 
-- Linux Essentials — LPI 
-- LPIC-1 — En preparación
+Las prácticas se documentan mostrando:
+
+- Qué problema o tarea se está resolviendo
+- Qué comandos se utilizaron
+- Por qué se utilizaron
+- Cómo se verificó el resultado
+- Qué errores aparecieron y cómo se resolvieron
+
+## Evolución
+
+El repositorio irá creciendo desde fundamentos de Linux hacia administración de servidores, automatización y tareas relacionadas con Cloud y DevOps.
 
 ## Estado
 
-Proyecto en desarrollo y mejora continua.
+Proyecto activo y en evolución.
+
